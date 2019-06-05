@@ -162,7 +162,7 @@ a{
   font-size: 20px;
   background: rgba(0, 0, 0, 0.03);
   padding: 10px 20px 10px 20px;
-  border-bottom: solid rgba(0, 0, 0, 0.03) 3px;
+  /*border-bottom: solid rgba(0, 0, 0, 0.03) 3px;*/
   text-decoration: none;
   margin-right: 10px;
 }
@@ -189,7 +189,7 @@ a{
   font-size: 20px;
   background: rgba(0, 0, 0, 0.03);
   padding: 10px 20px 10px 20px;
-  border-bottom: solid rgba(0, 0, 0, 0.03) 3px;
+  /*border-bottom: solid rgba(0, 0, 0, 0.03) 3px;*/
   text-decoration: none;
   margin-left: 10px;
 }
